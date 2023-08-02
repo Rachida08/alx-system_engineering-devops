@@ -1,2 +1,6 @@
 #!/bin/bash
-ls -lna && cd .. && ls -lna && cd /boot && ls -lna
+ls -lna
+cd ..
+ls -lna
+cd /boot 
+ls -lna
